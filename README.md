@@ -1,5 +1,5 @@
-# ATM-File-Handling-in-C-
-This ATM uses .txt file to track records of created accounts, PIN, date of transaction, deposit and withdrawal amount, and balance. 
+# ATM-File-Handling-in-C
+This ATM uses *.txt* file to track records of created accounts, PIN, transaction date, deposit and withdrawal amount, and balance. 
 
 ## How to run
 1. Copy all the codes in **atm.c**
